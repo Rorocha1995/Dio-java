@@ -25,4 +25,5 @@ static void contar(int primeiroNumero, int segundoNumero) throws ParametrosInval
     }
 }
 
+
 }

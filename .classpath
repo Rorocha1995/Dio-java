@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="ContaBanco/src"/>
+	<classpathentry kind="src" path="controleCandidatos/src"/>
+	<classpathentry kind="src" path="controle-fluxo/src"/>
+	<classpathentry kind="src" path="debugging-java/src"/>
+	<classpathentry kind="src" path="DesafioControleFluxo/src"/>
+	<classpathentry kind="src" path="java-terminal/src"/>
+	<classpathentry kind="src" path="sistema-smart-tv/src"/>
+	<classpathentry kind="src" path="trilha-java-basico/codigo-fonte/tipos-variaveis/src"/>
+	<classpathentry kind="src" path="trilha-java-basico/exercicios/sistema-smart-tv"/>
+	<classpathentry kind="output" path="ContaBanco/bin"/>
+</classpath>
