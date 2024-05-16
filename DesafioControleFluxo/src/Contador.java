@@ -12,6 +12,7 @@ public class Contador {
             System.out.println("O segundo número deve ser maior que o primeiro.!!");
         }
 
+        
     terminal.close();
 }
 static void contar(int primeiroNumero, int segundoNumero) throws ParametrosInvalidosException{
